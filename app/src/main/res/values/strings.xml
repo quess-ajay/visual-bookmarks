@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Visual Bookmarks</string>
+    <string name="widget_name">Visual Bookmarks</string>
+    <string name="widget_description">Display your visual website bookmarks on your home screen</string>
+    <string name="search_hint">Search visual bookmarks…</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="add_visual_bookmark">Add Visual Bookmark</string>
+    <string name="save_bookmark">Save Bookmark</string>
+    <string name="preview_webpage">Preview</string>
+    <string name="url_label">Webpage URL</string>
+    <string name="url_placeholder">https://example.com</string>
+    <string name="title_label">Bookmark Title</string>
+    <string name="folder_label">Folder / Category</string>
+    <string name="notes_label">Notes (Optional)</string>
+    <string name="empty_title">Your visual bookmarks</string>
+    <string name="empty_subtitle">Save websites you want to remember as beautiful visual snapshots.</string>
+    <string name="add_first_bookmark">Add your first bookmark</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="edit_bookmark">Edit Bookmark</string>
+    <string name="refresh_screenshot">Refresh Screenshot</string>
+    <string name="delete_bookmark">Delete Bookmark</string>
+    <string name="delete_confirm_title">Delete this bookmark?</string>
+    <string name="delete_confirm_desc">This visual snapshot will be permanently removed.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="drag_to_reorder">Drag to swap with another bookmark</string>
+    <string name="swap_bookmarks">Swap Positions</string>
+</resources>

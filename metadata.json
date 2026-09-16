@@ -1,0 +1,6 @@
+{
+  "name": "Visual Bookmarks",
+  "description": "Visual bookmark manager capturing webpage screenshot snapshots with home screen widgets and instant browser launching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
